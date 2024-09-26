@@ -18,5 +18,5 @@ console.log(oddFriends);
 
 
 // filter and find ekyoi vabe kaj kore 
-// filter er condition er sate jodi kono kicu na mele taile se empty arrr dibe 
-// find er condition er sate jodi kono kocu na mele taile se undefind dibe.
+// filter er condition er sate jodi kono kicu na mele taile se empty arrr dibe  R mille to kono kothai nai je man gula milbe sei gulai print korbe.
+// find er condition er sate jodi kono kocu na mele taile se undefind dibe. R mille to kono kothai nai je man gula milbe sei gulai print korbe.
